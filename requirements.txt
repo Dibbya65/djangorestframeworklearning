@@ -1,0 +1,2 @@
+django 3.x
+django-rest-framework 3.12.x
